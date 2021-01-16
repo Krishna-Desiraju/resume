@@ -27,7 +27,7 @@ _Software Engineer experienced in designing and building cloud applications_ <br
 - Also familiar with Microsoft Azure Cloud
 
 ---
-## Technical Experience
+## Working Experience
 
 **Lead Software Developer** @ [CSG International](https://www.csgi.com/) _(Oct 2016 - Present)_ <br>
 The project aims to build and enhance the product Ascendon is a digital commerce platform solution for BSS (Business Support Services) needs and OTT (Over-The-Top) needs. And this takes care of the Digital Product management, Subscriber Management, Order Management, Revenue management.
