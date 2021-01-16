@@ -29,7 +29,7 @@ _Software Engineer experienced in designing and building cloud applications_ <br
 
 ## Technical Experience
 
-###**Lead Software Developer** @ [CSG International](https://www.csgi.com/) _(Oct 2016 - Present)_ <br>
+**Lead Software Developer** @ [CSG International](https://www.csgi.com/) _(Oct 2016 - Present)_ <br>
 The project aims to build and enhance the product Ascendon is a digital commerce platform solution for BSS (Business Support Services) needs and OTT (Over-The-Top) needs. And this takes care of the Digital Product management, Subscriber Management, Order Management, Revenue management.
   - Develop new software application components in a highly iterative fashion. Collaborate with product owners and quality assurance teams.
   - Design and implement custom components including integrations with third party systems via web services.
@@ -38,7 +38,7 @@ The project aims to build and enhance the product Ascendon is a digital commerce
   - **_Technologies used:_** C#, .NET, SQL Server, RabbitMq, IIS, AWS Lambda, SNS, SQS, Kinesis, Elasticsearch, Redis, DynamoDb
 <br><br>
 
-###**Senior Software Engineer & Technology Analyst** @ [Infosys Limited](https://www.infosys.com/) _(Sep 2008 - Oct 2016)_ <br>
+**Senior Software Engineer & Technology Analyst** @ [Infosys Limited](https://www.infosys.com/) _(Sep 2008 - Oct 2016)_ <br>
 Some of the Key Projects worked with my employer Infosys Limited (Client: United Airlines) till date (Sep 2008 – Oct 2016)
 
 - **_Azure Cloud based project for Mileage Plus Big Blue Promotion targeting 9 Million Customers (April 2016 – Oct 2016)_**
@@ -68,6 +68,7 @@ Some of the Key Projects worked with my employer Infosys Limited (Client: United
 - **_Statement Processing for Mileage Plus Accounts_**
 - **_Designed and built several other web services._**
 - **_Also build CI/CD pipeline using jenkins_**
+<br>
 
 ## Education
 
