@@ -4,13 +4,13 @@ _Software Engineer experienced in designing and building cloud applications_ <br
 
 [LinkedIn](https://www.linkedin.com/in/krishna-desiraju-40667862/) / [Email](mailto:dvsaikrishna@gmail.com)
 
-----
+
 ## About myself
 - Designed and built several enterprise applications on AWS Cloud with modern microservices and resilient architecture. Includes microservices and serverless architectures.
 - [AWS Certified Solution Architect Associate](https://www.youracclaim.com/badges/0238b8ec-3082-4812-a53f-104b29fdd457/linked_in)
 - Over 12 years of experience.
 <br>
-----
+
 ## Experience Summary
 - Experienced in designing and building scalable distributed web and server side applications with elegant and succinct and maintainable solution having minimal technical debt.
 - Experienced in leading teams in back end software development with modern architectures.
@@ -20,16 +20,16 @@ _Software Engineer experienced in designing and building cloud applications_ <br
 - Authored a small open source library for caching on [github](https://www.nuget.org/packages/CacheInterceptor/)
 - Familiar with functional programming in F#.
 <br>
-----
+
 ## Technologies
 - **_Amazon Web Services(AWS) Cloud Technologies_**: AWS Lambda, Beanstalk, Aurora, DynamoDb, SNS, SQS, Kinesis.
 - C#, .NET Framework, Microsoft SQL Server, ASP.NET, CI/CD
 - Also familiar with Microsoft Azure Cloud
 <br>
-----
+
 ## Technical Experience
 
-####**Lead Software Developer** @ [CSG International](https://www.csgi.com/) _(Oct 2016 - Present)_ <br>
+###**Lead Software Developer** @ [CSG International](https://www.csgi.com/) _(Oct 2016 - Present)_ <br>
 The project aims to build and enhance the product Ascendon is a digital commerce platform solution for BSS (Business Support Services) needs and OTT (Over-The-Top) needs. And this takes care of the Digital Product management, Subscriber Management, Order Management, Revenue management.
   - Develop new software application components in a highly iterative fashion. Collaborate with product owners and quality assurance teams.
   - Design and implement custom components including integrations with third party systems via web services.
@@ -38,7 +38,7 @@ The project aims to build and enhance the product Ascendon is a digital commerce
   - **_Technologies used:_** C#, .NET, SQL Server, RabbitMq, IIS, AWS Lambda, SNS, SQS, Kinesis, Elasticsearch, Redis, DynamoDb
 <br><br>
 
-####**Senior Software Engineer & Technology Analyst** @ [Infosys Limited](https://www.infosys.com/) _(Sep 2008 - Oct 2016)_ <br>
+###**Senior Software Engineer & Technology Analyst** @ [Infosys Limited](https://www.infosys.com/) _(Sep 2008 - Oct 2016)_ <br>
 Some of the Key Projects worked with my employer Infosys Limited (Client: United Airlines) till date (Sep 2008 – Oct 2016)
 
 - **_Azure Cloud based project for Mileage Plus Big Blue Promotion targeting 9 Million Customers (April 2016 – Oct 2016)_**
@@ -68,7 +68,7 @@ Some of the Key Projects worked with my employer Infosys Limited (Client: United
 - **_Statement Processing for Mileage Plus Accounts_**
 - **_Designed and built several other web services._**
 - **_Also build CI/CD pipeline using jenkins_**
-----
+
 ## Education
 
 **Bachelor of Technology in Electronics and Communication Engineering**
