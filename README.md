@@ -4,13 +4,14 @@ _Software Engineer experienced in designing and building cloud applications_ <br
 
 [LinkedIn](https://www.linkedin.com/in/krishna-desiraju-40667862/) / [Email](mailto:dvsaikrishna@gmail.com)
 
-
+---
 ## About myself
 - Designed and built several enterprise applications on AWS Cloud with modern microservices and resilient architecture. Includes microservices and serverless architectures.
 - [AWS Certified Solution Architect Associate](https://www.youracclaim.com/badges/0238b8ec-3082-4812-a53f-104b29fdd457/linked_in)
 - Over 12 years of experience.
 <br>
 
+---
 ## Experience Summary
 - Experienced in designing and building scalable distributed web and server side applications with elegant and succinct and maintainable solution having minimal technical debt.
 - Experienced in leading teams in back end software development with modern architectures.
@@ -21,12 +22,14 @@ _Software Engineer experienced in designing and building cloud applications_ <br
 - Familiar with functional programming in F#.
 <br>
 
+---
 ## Technologies
 - **_Amazon Web Services(AWS) Cloud Technologies_**: AWS Lambda, Beanstalk, Aurora, DynamoDb, SNS, SQS, Kinesis.
 - C#, .NET Framework, Microsoft SQL Server, ASP.NET, CI/CD
 - Also familiar with Microsoft Azure Cloud
 <br>
 
+---
 ## Technical Experience
 
 **Lead Software Developer** @ [CSG International](https://www.csgi.com/) _(Oct 2016 - Present)_ <br>
@@ -69,7 +72,8 @@ Some of the Key Projects worked with my employer Infosys Limited (Client: United
 - _Also build CI/CD pipeline using jenkins_
 <br>
 
+---
 ## Education
 
-**Bachelor of Technology in Electronics and Communication Engineering**
+**Bachelor of Technology in Electronics and Communication Engineering**<br>
 [Acharya Nagarjuna University](https://www.nagarjunauniversity.ac.in/indexanu.html) - India _(Sep 2004 - Apr 2008)_ <br>
