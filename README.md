@@ -31,7 +31,7 @@ _Software Engineer experienced in designing and building cloud applications_ <br
 
 **Lead Software Developer** @ [CSG International](https://www.csgi.com/) _(Oct 2016 - Present)_ <br>
 The project aims to build and enhance the product Ascendon is a digital commerce platform solution for BSS (Business Support Services) needs and OTT (Over-The-Top) needs. And this takes care of the Digital Product management, Subscriber Management, Order Management, Revenue management.
-  - Develop new software application components in a highly iterative fashion. Collaborate with product owners and quality assurance teams.
+  - Develop new software application components like web services and microservices in a highly iterative fashion. Collaborate with product owners and quality assurance teams.
   - Design and implement custom components including integrations with third party systems via web services.
   - Work with client support and implementation consultants to resolve application issues. Resolve complex technical issues and work on complex assignments.
   - Act as a point of contact for technical expertise for team members.
