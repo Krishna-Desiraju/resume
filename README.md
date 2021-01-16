@@ -62,11 +62,10 @@ Some of the Key Projects worked with my employer Infosys Limited (Client: United
         - Built continuous integration/delivery infrastructure to accelerate delivery.
     - **_Technologies used:_** C#, ASP.NET Web API , , Hangfire framework, F#, Elasticsearch for logging.
     <br>
-
 - _Star Alliance PAI Hub Real Time Retro Credit Web Services (June 2015 – November 2015)_
 - _Loyalty Bank CQRS Applications (November 2013 – February 2015)_
 - _Statement Processing for Mileage Plus Accounts_
-- *_Designed and built several other web services._
+- _Designed and built several other web services._
 - _Also build CI/CD pipeline using jenkins_
 <br>
 
