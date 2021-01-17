@@ -12,11 +12,11 @@ _Software Engineer experienced in designing and building cloud applications_ <br
 
 ---
 ## Experience Summary
-- Experienced in designing and building scalable distributed web and server side applications with elegant and succinct and maintainable solution having minimal technical debt.
+- Experienced in designing and building scalable distributed web and server side applications with elegant and succinct and maintainable solutions having minimal technical debt.
 - Experienced in leading teams in back end software development with modern architectures.
 - Experienced in the full spectrum of tooling for a full cycle application development starting from Preparing the environment, development, testing, deployment, benchmarking, monitoring.
 - Experienced in redesigning and rewriting applications with high technical debt and excess manual support. Authored a batch framework for handling 1000+ files for a major airline.
-- Ensures reliable, clean, maintable and scalable code and architectures.
+- Ensures reliable, clean, maintainable and scalable code and architectures.
 - Authored a small open source library for caching on [github](https://www.nuget.org/packages/CacheInterceptor/)
 - Familiar with functional programming in F#.
 
@@ -47,7 +47,7 @@ Some of the Key Projects worked with my employer Infosys Limited (Client: United
         - Played instrumental role in the technical design and in building the application.
         - Key role in solving the architectural puzzle in coming up with a hybrid solution that works best in the limited development time by involving Azure service bus topics and subscribers.
         - Code the web api and the interactions with azure service bus topic and the various subscribers hosted as windows services.
-        - Made the repository/data access layer cross db compatible with couchbase db to ensure the solution can migrated to on-premise anytime.
+        - Made the repository/data access layer cross db compatible with couchbase db to ensure the solution can migrate to on-premise anytime.
     - **_Technologies used:_** C#, ASP.NET Web API , , Azure App Service, Azure SQL DB, Azure Service Bus, Application Insights, F#
     <br>
 
