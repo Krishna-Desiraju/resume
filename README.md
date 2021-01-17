@@ -30,7 +30,7 @@ _Software Engineer experienced in designing and building cloud applications_ <br
 ## Working Experience
 
 **Lead Software Developer** @ [CSG International](https://www.csgi.com/) _(Oct 2016 - Present)_ <br>
-The project aims to build and enhance the product Ascendon is a digital commerce platform solution for BSS (Business Support Services) needs and OTT (Over-The-Top) needs. And this takes care of the Digital Product management, Subscriber Management, Order Management, Revenue management.
+The project aims to enhance Ascendon which is a BSS(Business Support System) Product Solution for Telecom companies to handle Product Management, Subscriber Management, Order Management and Revenue Management. Ascendon is a cloud hosted SaaS solution powered by JSON APIs and microservices.
   - Develop new software application components like web services and microservices in a highly iterative fashion. Collaborate with product owners and quality assurance teams.
   - Design and implement custom components including integrations with third party systems via web services.
   - Work with client support and implementation consultants to resolve application issues. Resolve complex technical issues and work on complex assignments.
@@ -42,13 +42,13 @@ The project aims to build and enhance the product Ascendon is a digital commerce
 Some of the Key Projects worked with my employer Infosys Limited (Client: United Airlines) till date (Sep 2008 – Oct 2016)
 
 - **_Azure Cloud based project for Mileage Plus Big Blue Promotion targeting 9 Million Customers (April 2016 – Oct 2016)_**
-    - The project aims to build cloud and on-premise based hybrid solution that registers 9 million mileage plus members for a promotion. It includes an AngularJS web app bundled with Web API and hosted as an Azure App service and registrations events are written to Azure Service bus Topic for the on-premise subscribers to listen and process them with different subsystems such as backend and email processing.
+    - The project aims to build cloud and on-premise based hybrid architecture solution that registers 9 million mileage plus members for a promotion. It includes an AngularJS web app bundled with Web API and hosted as an Azure App service and registrations events are written to Azure Service bus Topic for the on-premise subscribers to listen and process them with different subsystems such as backend and email processing.
     - Roles and Responsibilities
         - Played instrumental role in the technical design and in building the application.
         - Key role in solving the architectural puzzle in coming up with a hybrid solution that works best in the limited development time by involving Azure service bus topics and subscribers.
         - Code the web api and the interactions with azure service bus topic and the various subscribers hosted as windows services.
         - Made the repository/data access layer cross db compatible with couchbase db to ensure the solution can migrate to on-premise anytime.
-    - **_Technologies used:_** C#, ASP.NET Web API , , Azure App Service, Azure SQL DB, Azure Service Bus, Application Insights, F#
+    - **_Technologies used:_** C#, ASP.NET Web API, RESTful API, Azure App Service, Azure SQL DB, Azure Service Bus, EntityFramework, Application Insights, F#
     <br>
 
 - **_New Partner Gateway to handle more than 500 different batch files exchanged with 30+ Air and 60+ Non-Air Partners (December 2015 – Mar 2016)_**
